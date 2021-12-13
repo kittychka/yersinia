@@ -109,6 +109,7 @@
       libnet11
       libpcap
       pkgconfig @0.21_0 (active)
+      gtk+
 
 
    Q 3.3: When will be the 'put_your_preferred_os_here' supported?
